@@ -1,0 +1,9 @@
+body {font-family: cursive;}
+
+#main-header {font-weight: bolder;
+    background-color: lightpink;
+    color: blue;
+    ;font-size: 50px;}
+
+    .list {background-color: lightblue;
+        color: red;}

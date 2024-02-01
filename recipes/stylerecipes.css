@@ -1,0 +1,25 @@
+body {font-family: cursive;}
+
+#main-header {font-weight: bolder;
+    background-color: lightpink;
+    color: blue;
+    ;font-size: 50px;}
+
+#header {font-weight: bolder;
+    background-color: lightpink;
+    color: blue;}
+
+.list {background-color: lightblue;
+color: red;}
+
+.recipe-link {font-weight: bold;
+    color: pink;}
+
+
+p {color: blue; 
+background-color: pink;}
+
+.bio {font-weight: bold;}
+
+#return {font-weight: bolder
+    ;color: blue;background-color: lightpink;}
